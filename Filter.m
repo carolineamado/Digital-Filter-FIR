@@ -144,7 +144,7 @@ plot(omegadis/pi,angle(H),'-b');grid minor
 hold
 
 plot(omegadis/pi,angle(Hquan),':r'); grid minor
-title('Fase de H');
+title('Phase of H');
 xlabel('Omega standard'); ylabel('Phase');
 
 
