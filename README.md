@@ -1,6 +1,4 @@
-Filtro-FIR-com-fase-linear
-==========================
+Digital Filter with linear phase FIR
+====================================
 
-codigo em Matlab 
-
-Teste
+Matlab code 
